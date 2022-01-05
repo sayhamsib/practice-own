@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.background{
+    background-image: url(images/back.jpg);
+    background-position: 100%;
+    color: rgb(221, 221, 221);
+    text-align: center;
+    margin: 400px 500px;
+    text-decoration: none;
+   
+}
+.span1{
+    color: red;
+}
+.paragraph{
+    padding: 40px;
+
+}
+h1{
+    padding-top: 20px;
+}
+#email{
+margin-bottom: 20px;
+}
+
+.input1{
+    padding-bottom: 20px;
+}
